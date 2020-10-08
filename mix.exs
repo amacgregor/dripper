@@ -27,7 +27,7 @@ defmodule Dripper.Mixfile do
       {:floki, "~> 0.4.1"},
       {:progress_bar, ">= 0.0.5"},
       {:dogma, "~> 0.1.15"},
-      {:credo, "~> 0.8.8"}
+      {:credo, "~> 1.4.1"}
     ]
   end
 end
