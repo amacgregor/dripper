@@ -22,7 +22,7 @@ defmodule Dripper.Mixfile do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:ibrowse, github: "cmullaparthi/ibrowse", tag: "v4.1.2"},
+      {:ibrowse, github: "cmullaparthi/ibrowse", tag: "v4.4.2"},
       {:httpotion, "~> 2.1.0"},
       {:floki, "~> 0.4.1"},
       {:progress_bar, ">= 0.0.5"},
