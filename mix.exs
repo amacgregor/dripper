@@ -24,7 +24,7 @@ defmodule Dripper.Mixfile do
     [
       {:ibrowse, github: "cmullaparthi/ibrowse", tag: "v4.1.2"},
       {:httpotion, "~> 2.1.0"},
-      {:floki, "~> 0.4.1"},
+      {:floki, "~> 0.31.0"},
       {:progress_bar, ">= 0.0.5"},
       {:dogma, "~> 0.1.15"},
       {:credo, "~> 0.8.8"}
